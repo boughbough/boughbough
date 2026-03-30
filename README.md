@@ -1,14 +1,13 @@
 <h2 align="left">Salut👋! Je suis Mohamed Boughmadi.</h2>
 
-###
-
-
+<div align="center">
+  <img height="180" src="https://miro.medium.com/v2/resize:fit:490/format:webp/1*5wwrJusHLhDJwnJ8wF3DLA.gif" alt="Breaking Bad Gif" />
+</div>
 
 ###
 
 <div align="left">
   <h2>🎓 À propos de moi</h2>
-  <img align="right" height="180" src="https://miro.medium.com/v2/resize:fit:490/format:webp/1*5wwrJusHLhDJwnJ8wF3DLA.gif" alt="Breaking Bad Gif" />
   <ul>
     <li>Étudiant en 3ème année de Licence MIAGE à l'Université Paris Nanterre.</li>
     <li><strong>En recherche active d'un stage à temps plein (min. 8 semaines) à partir du 1er avril 2026.</strong></li>
@@ -54,10 +53,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" title="Django" />
   </p>
 
-
   <br>
 </div>
-
 
 ###
 
@@ -71,9 +68,8 @@
 <div align="center">
   <h3>💬 Contactez-moi :</h3>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mohamedboughmadi93300@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a href="https://linkedin.com/in/votre-profil" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
+  <a href="https://linkedin.com/in/mohamed-boughmadi" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
-
 
 ###
 
