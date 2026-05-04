@@ -44,13 +44,30 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo" title="MariaDB" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" title="SQLite" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
   </p>
 
   <ul>
-    <li><b>Frameworks :</b> Django.</li>
+    <li><b>Frameworks & Librairies :</b></li>
   </ul>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" title="Django" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
+  </p>
+
+  <ul>
+    <li><b>Outils & Cloud :</b></li>
+  </ul>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vite logo" title="Vite" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" height="40" alt="supabase logo" title="Supabase" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo" title="Vercel" />
   </p>
 
   <br>
@@ -60,8 +77,9 @@
 
 ## 🚀 Projets Récents
 
-* **LogiFête (PGI Web)** : Application de gestion de location (automatisation de la facturation, suivi des stocks, intégration de signature électronique et sécurisation). *Stack : PHP 8, MariaDB, CSS.*
-* **Rising Town** : Simulation de gestion urbaine gamifiée et persistante (moteur de carte isométrique, gestion économique en temps réel, rôles multiples). *Stack : Python (Django), SQLite, JavaScript, HTML, CSS.*
+* **Nexus** : Plateforme de messagerie instantanée moderne, fluide et hautement sécurisée.           <br>*Stack : React.js, Vite, Tailwind CSS, Supabase, hCaptcha, Vercel.*
+* **Rising Town** : Simulation de gestion urbaine gamifiée et persistante (moteur de carte isométrique, gestion économique en temps réel, rôles multiples). <br>*Stack : Python (Django), SQLite, JavaScript, HTML, CSS.*
+* **LogiFête (PGI Web)** : Application de gestion de location (automatisation de la facturation, suivi des stocks, intégration de signature électronique et sécurisation). <br>*Stack : PHP 8, MariaDB, CSS.*
 
 ###
 
