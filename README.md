@@ -10,7 +10,7 @@
   <h2>🎓 À propos de moi</h2>
   <ul>
     <li>Étudiant en 3ème année de Licence MIAGE à l'Université Paris Nanterre.</li>
-    <li><strong>En recherche active d'un stage à temps plein (min. 8 semaines) à partir du 1er avril 2026.</strong></li>
+    <li><strong>En recherche active d'une alternance (24 mois) à partir de septembre 2026.</strong></li>
     <li>Basé à Paris, France.</li>
   </ul>
 </div>
