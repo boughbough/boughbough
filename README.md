@@ -1,21 +1,6 @@
-<!--
-  =============================================================
-  README de profil GitHub — Mohamed Boughmadi
-  À placer dans le repo : github.com/boughbough/boughbough
-  (le repo qui porte le même nom que votre user GitHub)
-  =============================================================
-
-  TODO 1 — SVG d'en-tête personnalisé :
-  Pour l'instant on utilise un service de typing automatique
-  (readme-typing-svg) qui écrit "Mohamed Boughmadi" en boucle.
-  Quand on aura créé notre propre SVG qui s'écrit, on remplacera
-  simplement la <ligne 18> ci-dessous.
-
-  TODO 2 — Bottom decoration : idem, on utilise capsule-render
-  comme placeholder. À remplacer par un SVG custom plus tard.
--->
-
-![Mohamed Boughmadi](https://readme-typing-svg.demolab.com?font=Instrument+Serif&size=54&duration=2800&pause=900&color=FFFFFF&center=true&vCenter=true&width=820&height=110&lines=Mohamed+Boughmadi)
+<div align="center">
+  <img src="assets/banner-name.svg" alt="Mohamed Boughmadi" width="100%" />
+</div>
 
 <p align="center">
 Étudiant en 3ème année de Licence MIAGE à l'Université Paris Nanterre, en recherche d'une <strong>alternance (24 mois) à partir de septembre 2026</strong>. J'aime construire des applications web complètes — où la rigueur du back-end rejoint la clarté de l'interface.
@@ -42,6 +27,8 @@
 
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:333333&height=110&section=footer)
+<div align="center">
+  <img src="assets/bottom_header.gif" alt="Footer" width="100%" />
+</div>
 <br>
 </p>
