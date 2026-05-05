@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="assets/banner-name.gif" alt="Mohamed Boughmadi" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f50296c2-0d93-43df-b74c-d75458c02f18" alt="Mohamed Boughmadi" width="100%" />
 </div>
 
 <p align="center">
 Étudiant en 3ème année de Licence MIAGE à l'Université Paris Nanterre, en recherche d'une <strong>alternance (24 mois) à partir de septembre 2026</strong>. Animé par une forte éthique de travail et une grande exigence, je développe des applications web innovantes pour améliorer le quotidien des utilisateurs.
 <br><br> 
 <br>
- <a href="assets/CV- Mohamed_BOUGHMADI.pdf">CV</a>
+ <a href="https://github.com/user-attachments/files/27413806/CV-.Mohamed_BOUGHMADI.pdf">CV</a> ·
 ·  <a href="https://boughbough.github.io/my-portfolio/">Portfolio</a>
 
 <br>
@@ -27,7 +27,6 @@
 </p>
 
 <div align="center">
-  <img src="assets/bottom_header.svg" alt="Footer" width="100%" />
-</div>
+  <img src="https://github.com/user-attachments/assets/17a6afac-ecf7-4ce4-933f-911688bfb3c3" alt="Footer" width="100%" /></div>
 <br>
 </p>
