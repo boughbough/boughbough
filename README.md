@@ -6,7 +6,7 @@
 Étudiant en 3ème année de Licence MIAGE à l'Université Paris Nanterre, en recherche d'une <strong>alternance (24 mois) à partir de septembre 2026</strong>. Animé par une forte éthique de travail et une grande exigence, je développe des applications web innovantes pour améliorer le quotidien des utilisateurs.
 <br><br> 
 <br>
- <a href="https://github.com/user-attachments/files/27413806/CV-.Mohamed_BOUGHMADI.pdf">CV</a> ·
+ <a href="https://github.com/user-attachments/files/27413806/CV-.Mohamed_BOUGHMADI.pdf">CV</a>
 ·  <a href="https://boughbough.github.io/my-portfolio/">Portfolio</a>
 
 <br>
