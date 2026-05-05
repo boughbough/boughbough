@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner-name.svg" alt="Mohamed Boughmadi" width="100%" />
+  <img src="assets/banner-name.gif" alt="Mohamed Boughmadi" width="100%" />
 </div>
 
 <p align="center">
@@ -28,7 +28,7 @@
 </p>
 
 <div align="center">
-  <img src="assets/bottom_header.gif" alt="Footer" width="100%" />
+  <img src="assets/bottom_header.svg" alt="Footer" width="100%" />
 </div>
 <br>
 </p>
