@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f50296c2-0d93-43df-b74c-d75458c02f18" alt="Mohamed Boughmadi" width="100%" />
+  <img src="assets/banner-name.gif" alt="Mohamed Boughmadi" width="100%" />
 </div>
 
 <p align="center">
