@@ -7,7 +7,7 @@
 <br><br> 
 <br>
  <a href="https://github.com/user-attachments/files/27413806/CV-.Mohamed_BOUGHMADI.pdf">CV</a>
-·  <a href="https://boughbough.github.io/my-portfolio/">Portfolio</a>
+·  <a href="https://portfolio-boughbough.vercel.app/">Portfolio</a>
 
 <br>
  <p align="center">
